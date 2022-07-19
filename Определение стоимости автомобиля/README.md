@@ -31,7 +31,6 @@
 - pandas
 - seaborn
 - catboost
-- lightgbm
 - math
 - sklearn.linear_model
 - sklearn.metrics
